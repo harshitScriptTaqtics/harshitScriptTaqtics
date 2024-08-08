@@ -1,6 +1,6 @@
 # HARSHIT BHAWSAR 🧜‍♂️
 #### @harshitScriptTaqtics
-An energetic Web developer with over 1.5 year of experience effectively building, managing and deploying projects from scratch to completion. Using my Web-development skills to increase overall organization's productivity.
+An energetic Web developer with over 3 years of experience effectively building, managing and deploying projects from scratch to completion. Using my Web-development skills to increase overall organization's productivity.
 
 ## Skills Stack 👨‍💻
 
