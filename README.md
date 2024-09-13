@@ -5,7 +5,7 @@ An energetic Web developer with over 3 years of experience effectively building,
 ## Skills Stack 👨‍💻
 
 - #### FRONT-END
-  - ReactJs, Vanilla Js, HTML5, ES6^, Optimization
+  - ReactJs, Typescript, Vanilla Js, HTML5, ES6^, Optimization
 
 - #### STYLING
   - Css3, Css-module, SaSS, Styled-components, Material-UI, React-bootstarp
